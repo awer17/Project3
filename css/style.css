@@ -172,6 +172,7 @@
 .container-selling .sub-title span,
 .container-categories .sub-title span,
 .container-instagram .sub-title span{
+    display: inline-block;
     font-family: 'Swagger TTF';
     font-size: 131px;
     line-height: 135px;
@@ -430,7 +431,8 @@
 }
 
 .review-items .review-list .sub-title span{
-    font-family: Swagger TTF;
+    display: inline-block;
+    font-family: 'Swagger TTF';
     font-style: normal;
     font-weight: normal;
     font-size: 131px;
